@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=DESKTOP-JO34CC1\\SQLEXPRESS;Database=Practice;User Id=demo;Password=123456;MultipleActiveResultSets=True;",
+    "MyDatabaseConnection": "Server=DESKTOP-JO34CC1\\SQLEXPRESS;Database=Practice;Trusted_Connection=True;MultipleActiveResultSets=True;"
+  }
+}
